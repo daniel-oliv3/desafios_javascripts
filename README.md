@@ -11,7 +11,7 @@
 ## Saída
 #### Exiba todos os valores lidos na entrada segundo a ordem apresentada acima. Cada número deve ser impresso em uma linha. Conforme exemplo de saída abaixo.
 
-## Exemplo Entrada | Exemplo de Saída
+## Exemplo de Entrada | Exemplo de Saída
 - 10..................................................................4
 - 4...................................................................32   
 - 32..................................................................34 
