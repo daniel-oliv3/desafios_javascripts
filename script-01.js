@@ -1,0 +1,8 @@
+let N = parseInt(gets());
+
+
+
+
+
+
+
