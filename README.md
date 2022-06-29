@@ -32,13 +32,17 @@
 - node nome_projeto.js
 
 
-## 2* Desafio
+## 2* - Desafio
 
 #### Crie um algoritimo para ordernar um conjuntos de palavras pelo seu tamanho. Seu programa deve receber um conjunto de palavras e retornar este mesmo conjunto ordenado pelo tamanho das palavras descrescente, se o tamanho das palavras for igual, deve-se ordernar por odem alfabética.
 
 ## Entrada
 
 #### A primeira linha da entrada possui um único inteiro N, que indica o número de casos de teste. Cada caso de teste poderá conter de 1 a 50 palavras inclusive, e cada uma das palavras poderá conter entre 1 e 50 caracteres inclusive. Os caracteres poderão ser espaços, letras, ou numeros.
+
+## Saída
+
+#### A saída deve conter o conjunto de palavras da entrada ordenado pelo tamanho das palavras e caso o tamanho das palavras for igual, deve-se ordenar por ordem alfabética.. Um espaço em branco deve ser impresso entre duas palavras.
 
 
 
