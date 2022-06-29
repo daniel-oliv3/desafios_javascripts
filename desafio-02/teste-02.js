@@ -1,20 +1,14 @@
-let N = parseInt(gets());
+let entrada = "banana abacaxi melão uva mamão tangerina";
 
-for(let i =0; i < N; i++){
-    let entrada = gets();
-    
-    console.log(
-        entrada
-        .split(' ')
-        .sort((a, b) => {
-            if(a > b) return 1;
-            if(b > a) return -1;
-            if(a === b) return 0;
-        })
-        .sort((a, b) => b.length - a.length)
-        .join(' ')
-    )    
-}
+let arr = entrada.split(' ');
+
+console.log(arr.sort((a, b) => {
+    if(a > b) return 1;
+    if(b > a) return -1;
+    if(a === b) return 0;
+}).sort((a, b) => b.length - a.length).join(' ')
+);
+
 
 
 
