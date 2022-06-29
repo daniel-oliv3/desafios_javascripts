@@ -1,4 +1,5 @@
 //Terminal:  node teste-01.js
+/* odenação */
 
 let arr = [1, 6, 4, 3, 8, 9, 12, -2];
 

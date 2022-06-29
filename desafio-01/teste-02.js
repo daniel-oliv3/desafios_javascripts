@@ -1,12 +1,19 @@
-//Terminal:  node teste-01.js
 
-let arr = ['banana', 'abacate'];
+
+let arr = ['banana', 'abacate', 'tangerina', 'damasco'];
 
 /*Crescente*/
-arr.sort((a, b) => a - b);
-
-/*Decrescente*/
-//arr.sort((a, b) => b - a);
+arr.sort((a, b) => {
+    if(a > b){
+        return 1;
+    }
+    if(b > a){
+        return -1;
+    }
+    if(a === b){
+        return 0;
+    }
+})
 
 console.log(arr);
 
