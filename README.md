@@ -46,7 +46,7 @@
 
 
 ## Exemplo de Entrada | Exemplo de Saída
-- One theree four mond ................................. Midnight three four
+- One theree four mond .................... Midnight three four
 - at midnight .......................................... mond One at
 - one three five ....................................... three five one
 
