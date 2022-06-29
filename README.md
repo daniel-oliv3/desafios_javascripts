@@ -55,13 +55,13 @@
 
 #### Neste desafio sua tarefa será ler vários números e em seguida dizer quantas vezes cada número aparece, ou seja, deve-se escrever cada um dos valores distintos que aparecem na entrada por ordem crescente de valor.
 
-### Entrada.
+## Entrada.
 
 #### A primeira linha de entrada contem um unico inteiro N, que indica a quantidade de valoresque serão lidos por X (1 ≤ N ≤ 2000) logo em seguida. Com certeza cada número não aparecera mais de 20 veses na entrada de dados.
 
-#### Saída
+## Saída
 
-### Imprima a saída de acordo com o exemplo fornecido abaixo, indicando quantas veses cada um deles aparecem na entrada por ordem crescente de valor.
+#### Imprima a saída de acordo com o exemplo fornecido abaixo, indicando quantas veses cada um deles aparecem na entrada por ordem crescente de valor.
 
 
 
