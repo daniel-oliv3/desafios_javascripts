@@ -50,6 +50,9 @@
 - at midnight ............... mond One at
 - one three five ............ three five one
 
+#### Exemplo:
+- Ex - script-02.js
+
 
 ## 3* - Desafio
 
@@ -64,12 +67,13 @@
 #### Imprima a saída de acordo com o exemplo fornecido abaixo, indicando quantas veses cada um deles aparecem na entrada por ordem crescente de valor.
 
 ## Exemplo de Entrada | Exemplo de Saída
-- 7 ..................... 4 aparece 1 ves
-- 8 ..................... 8 aparece 2 veses
-- 10 .................... 10 aparece 3 veses
-- 260 .................... 260 aparece 1 ves
+- 7 ..................................................... 4 aparece 1 ves
+- 8 ..................................................... 8 aparece 2 veses
+- 10 .................................................... 10 aparece 3 veses
+- 260 ................................................... 260 aparece 1 ves
 
-
+#### Exemplo:
+- Ex - script-03.js
 
 
 

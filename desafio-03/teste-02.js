@@ -7,6 +7,10 @@ let obj = {};
 obj.teste1 = 20;
 obj.teste2 = 40;
 
+/* Mesma coisa do codigo acima */
+obj.['teste1'] = 20;
+obj.['teste2'] = 40;
+
 for(chave in obj){
 console.log(`A chave ${chave} possui o valor ${obj[chave]}`);
 }
