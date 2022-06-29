@@ -45,7 +45,10 @@
 #### A saída deve conter o conjunto de palavras da entrada ordenado pelo tamanho das palavras e caso o tamanho das palavras for igual, deve-se ordenar por ordem alfabética.. Um espaço em branco deve ser impresso entre duas palavras.
 
 
-
+## Exemplo de Entrada | Exemplo de Saída
+- One theree four mond . Midnight three four
+- at midnight          . mond One at
+- one three five       . three five one
 
 
 
